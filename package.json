@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "@snehal1112/utils",
   "version": "1.2.10",
   "description": "Utility functions",
   "main": "./dist/index.js",
@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {},
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@snehal1112"
+    "registry": "https://npm.pkg.github.com"
   },
   "devDependencies": {
     "@babel/core": "^7.11.1",
